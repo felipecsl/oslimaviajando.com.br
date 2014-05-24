@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://felipecsl.github.io
+title: Os Lima Travel
+subtitle: As viagens de (Vinia e Felipe) Lima.
+author: Felipe Lima e Vinia Amaral
 simple_search: https://www.google.com/search
 description:
 
