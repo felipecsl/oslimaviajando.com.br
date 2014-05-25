@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://felipecsl.github.io
-title: Os Lima Travel
+title: Os Lima Viajando
 subtitle: As viagens de (Vinia e Felipe) Lima.
 author: Felipe Lima e Vinia Amaral
 simple_search: https://www.google.com/search
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: oslimaviajando
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-51292980-1
 
 # Facebook Like
 facebook_like: false
