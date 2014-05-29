@@ -98,3 +98,5 @@ google_analytics_tracking_id: UA-51292980-1
 
 # Facebook Like
 facebook_like: false
+
+category_title_prefix: 'Categoria: '
