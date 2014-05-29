@@ -8,7 +8,7 @@ categories: [America do Sul, Chile, Hiking, Aventura]
 
 No nosso último dia antes de voltar para o Brasil, resolvemos visitar o [Cajon del Maipo](http://cajondelmaipo.com) (Canyon de Maipo), em especial o Baños Colina, que é uma área com piscinas naturais de águas termais com uma vista impressionante para as montanhas dos Andes. O lugar fica a sudoeste de Santiago, cerca de uns 100km do centro da cidade e o acesso é um pouco restrito, com vários kilometros de estrada de terra e cascalho. A maneira mais fácil de chegar lá parece ser de carro, que foi exatamente o que fizemos: alugamos um. Existem também [passeios pagos](http://www.viator.com/tours/Santiago/Hot-Springs-Tour-from-Santiago-with-Lunch/d713-5738SCLHSPG) que levam até lá, mas por 225 USD achamos que não valeria a pena, visto que a diária do aluguel do carro foi apenas 75 USD por um sedã médio (Chevrolet Sonic).
 
-![placas na estrada](/images/2014/05/IMG_2864.jpg)
+![placas na estrada](/images/2014/05/IMG_2864.JPG)
 > Placas indicando as direções na estrada...
 
 Para chegar lá, siga pela estrada G-25 até San José de Maipo. Até aí tudo tranquilo, a estrada é boa e bem sinalizada. Passando isso, continue, agora seguindo as placas para San Gabriel, sempre pela G-25. Depois de San Gabriel, você passará por uma entrada à direita com uma placa para Los Queltehues. **Não** pegue essa entrada, exceto caso queira se perder (como a gente fez) e parar numa estrada sem saída! :) Ao invés disso, siga pela estrada **Camino al Volcan**. Após mais alguns KMs vai acabar o asfalto e daí pra frente é chão batido e cascalho. Existem 3 usinas hidrelétricas na região, além de algumas usinas de mineração. Por isso, o trânsito de caminhões é intenso, que passam frequentemente levantando muita poeira.
