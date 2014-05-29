@@ -28,7 +28,7 @@ Trata-se de piscinas de lama de cor marrom que aparentemente têm efeitos benéf
 
 ![baños colina](http://www.cajondelmaipo.com/sites/default/files/slideshow/termas_banos_colina_01.jpg)
 
-Fica 3500 metros de altitude, passando Baños Morales e seguindo por mais alguns kilometros. É composto por depósitos calcáreos de águas termais com temperatura de até 70 graus Célsius.
+Fica a 3500 metros de altitude, passando Baños Morales e seguindo por mais alguns kilômetros. É composto por depósitos calcáreos de águas termais com temperatura de até 70 graus Célsius.
 
 Nosso maior erro foi não ter alugado uma caminhonete. Caso decida não ir durante o verão, alugue uma caminhonete, de preferência 4x4. O que ocorreu conosco foi que tivemos que retornar devido a um alagamento na estrada causado pela neve que derreteu na pista. Não tínhamos certeza de que o carro iria conseguir passar, então decidimos não arriscar. Ao tentarmos dar meia volta, para piorar a situação, o carro atolou na lama misturada com neve e acabamos passando uma meia hora derrapando e movendo pedras até conseguir desatolar. Por isso, a recomendação por uma caminhonete. ;)
 
